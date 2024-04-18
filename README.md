@@ -1,3 +1,5 @@
 # made
 ## Laboratorio interattivo sulle matrici. 
-CIAOOOOO
+CIAOOOOO  
+**BOLD**  
+*Italic*
